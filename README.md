@@ -39,6 +39,40 @@ The prototype is developed using Flutter, showcasing the core features and user 
 
 To get started with the FoWRA project, follow these steps:
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/mylntsy/fowra.git
+1. **Clone the repository**:
+    ```sh
+    git clone https://github.com/mylntsy/realtime-chat-app.git
+    cd realtime-chat-app
+    ```
+
+2. **Install dependencies**:
+    ```sh
+    flutter pub get
+    ```
+
+3. **Run the app**:
+    ```sh
+    flutter run
+    ```
+
+## Contributing
+We welcome contributions from the community. To contribute to the FoWRA project:
+
+**Step 1: Fork the repository**
+Fork the repository by clicking the "Fork" button at the top right of this page.
+
+**Step 2: Create a new branch**
+Create a new branch for your feature or bugfix. This will help us keep track of your changes.
+
+**Step 3: Make your changes**
+Make your changes and commit them with descriptive messages. This will help us understand what you've changed and why.
+
+**Step 4: Push your changes**
+Push your changes to your forked repository.
+
+**Step 5: Submit a pull request**
+Submit a pull request to the main repository. This will notify us of your changes and we'll review them as soon as possible.
+
+
+## Contact
+For any questions or inquiries, please contact the project team at (mailto:amylianatasya15@gmail.com).
